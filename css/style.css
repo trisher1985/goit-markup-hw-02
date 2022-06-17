@@ -1,5 +1,9 @@
 /* колір основного тексту  */
 body {
     background-color: #e5e5e5;
+    color: #2a2a2a;
 }
 
+a {
+    text-decoration: none;
+}
