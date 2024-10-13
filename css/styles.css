@@ -200,11 +200,11 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
+}
 
 /*section 3*/
 
 .ourportfolio {
-
 }
 
 .ourportfolio-title {
@@ -218,15 +218,12 @@ button {
 }
 
 .ourportfolio-list {
-
 }
 
 .ourportfolio-item {
-
 }
 
 .ourportfolio-item-photo {
-
 }
 
 .ourportfolio-item-title {
@@ -259,14 +256,16 @@ button {
   text-transform: uppercase;
   color: #4d5ae5;
 }
+
 .footer-logo:hover,
 .footer-logo span:hover,
 .footer-logo:focus,
 .footer-logo span:focus {
   color: #404bbf;
 }
+
 .footer-logo-interval {
-  color:  #f4f4fd;
+  color: #f4f4fd;
 }
 
 .footer-text {
