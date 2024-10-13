@@ -25,7 +25,7 @@ button {
 .header {
 }
 
-.header-nav {
+.header-navigation {
 }
 
 .header-logo-interval {
@@ -35,11 +35,14 @@ button {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #4d5ae5;
+  color: #434455;
 }
 
 .header-logo-interval:hover,
-.header-logo-interval span:hover,
+.header-logo-interval span:hover {
+  color: 404bbf;
+}
+,
 .header-logo-interval:focus,
 .header-logo-interval span:focus {
   color: #404bbf;
