@@ -38,27 +38,14 @@ button {
   color: #4d5ae5;
 }
 
-.header-logo-interval {
-  font-family: "Raleway", sans-serif;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #2e2f42;
-}
-
-.header-logo-interval:hover,
-.header-logo-interval span:hover {
-  color: 404bbf;
-}
-,
-.header-logo-interval:focus,
-.header-logo-interval span:focus {
+.header-logo:hover,
+.header-logo span:hover,
+.header-logo:focus,
+.header-logo span:focus {
   color: #404bbf;
 }
 
-.header-logo-interval span {
+.header-logo span {
   color: #2e2f42;
 }
 
